@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.link1{
+    margin-left: 10px;
+}
+.link2{
+    margin-right: 200px;
+}
+.link3{
+    margin-right: 100px;
+}
+
+.iconsell {
+    background-image: url(./images/iconSellBorder_noinline.d9eebe038fbfae9f90fd61d971037e02.svg);
+   background-repeat: no-repeat;
+}
+.img4{
+    background-image: url(./images/olxMobileApp.f5579f77e849b600ad60857e46165516.webp);
+    background-repeat: no-repeat;
+}
